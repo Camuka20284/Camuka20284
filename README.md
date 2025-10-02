@@ -1,4 +1,5 @@
-## Hi there 👋
+## Benim becerilerim:
+<img src="LINK" width="10%">
 
 <!--
 **Camuka20284/Camuka20284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
